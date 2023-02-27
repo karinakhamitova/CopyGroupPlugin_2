@@ -1,0 +1,6 @@
+D:\С#\CopyGroupPlugin\CopyGroupPlugin\bin\Debug\CopyGroupPlugin.dll
+D:\С#\CopyGroupPlugin\CopyGroupPlugin\bin\Debug\CopyGroupPlugin.pdb
+D:\С#\CopyGroupPlugin\CopyGroupPlugin\obj\Debug\CopyGroupPlugin.csproj.AssemblyReference.cache
+D:\С#\CopyGroupPlugin\CopyGroupPlugin\obj\Debug\CopyGroupPlugin.csproj.CoreCompileInputs.cache
+D:\С#\CopyGroupPlugin\CopyGroupPlugin\obj\Debug\CopyGroupPlugin.dll
+D:\С#\CopyGroupPlugin\CopyGroupPlugin\obj\Debug\CopyGroupPlugin.pdb
